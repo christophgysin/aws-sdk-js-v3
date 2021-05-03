@@ -61,7 +61,7 @@
     "figlet": "^1.5.0",
     "fs-extra": "^9.0.0",
     "generate-changelog": "^1.7.1",
-    "husky": "^4.2.3",
+    "husky": "^6.0.0",
     "jasmine-core": "^3.5.0",
     "jest": "^26.1.0",
     "jmespath": "^0.15.0",
